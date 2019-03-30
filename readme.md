@@ -1,0 +1,1 @@
+Splitting into train/test is done. Ignore the first notebook. Just use the data from the data folder.
